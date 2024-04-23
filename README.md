@@ -1,8 +1,10 @@
-M I L A A N - Facial Recognition App
+M I L A A N 
 
 Overview Milaan is a cutting-edge mobile application built on React Native, leveraging facial recognition technology. This app provides users with a seamless and secure authentication experience by using facial features for identity verification.
 
-Features Facial Recognition: Milaan utilizes advanced facial recognition algorithms to authenticate users securely. React Native: Built using the React Native framework, ensuring cross-platform compatibility and a smooth user experience. User Management: Efficiently manage user profiles and permissions within the app. Security: Robust security measures ensure that user data and biometric information are protected. Customization: Easily customize the app's interface and features to suit specific business or user requirements. Integration: Seamlessly integrate Milaan with existing systems or third-party services.
+FEATURES
+
+Facial Recognition: Milaan utilizes advanced facial recognition algorithms to authenticate users securely. React Native: Built using the React Native framework, ensuring cross-platform compatibility and a smooth user experience. User Management: Efficiently manage user profiles and permissions within the app. Security: Robust security measures ensure that user data and biometric information are protected. Customization: Easily customize the app's interface and features to suit specific business or user requirements. Integration: Seamlessly integrate Milaan with existing systems or third-party services.
 
 Usage User Registration: Users can register by providing necessary information and capturing their facial features for authentication.
 
